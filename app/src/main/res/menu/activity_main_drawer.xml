@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_camara" android:icon="@android:drawable/ic_menu_info_details"
+            android:title="@string/str_Import" />
+        <item android:id="@+id/nav_gallery" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/str_Galer" />
+        <item android:id="@+id/nav_slideshow" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="@string/str_Slide" />
+        <item android:id="@+id/nav_manage" android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/str_Tools" />
+    </group>
+
+    <item android:title="@string/str_EZ">
+        <menu>
+            <item android:id="@+id/nav_Ezshare" android:icon="@android:drawable/ic_menu_day"
+                android:title="@string/str_EZBall" />
+            <item android:id="@+id/nav_EzPropusk" android:icon="@android:drawable/ic_menu_my_calendar"
+                android:title="@string/str_EZPropusk" />
+            <item android:id="@+id/nav_EZmanage" android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/str_Tools" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="@string/str_Comm">
+        <menu>
+            <item android:id="@+id/nav_share" android:icon="@android:drawable/ic_menu_share"
+                android:title="@string/str_Share" />
+            <item android:id="@+id/nav_send" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/str_Send" />
+        </menu>
+    </item>
+
+
+
+
+
+</menu>

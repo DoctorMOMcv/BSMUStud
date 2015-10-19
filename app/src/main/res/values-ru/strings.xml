@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">БГМУ Информ</string>
+    <string name="action_settings">Настройки</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="strHWord">Всем привет с учебного отдела БДМУ </string>
+    <string name="NameSoft">Все о БГМУ</string>
+    <string name="str_Galer">Фотогалерея</string>
+    <string name="str_Comm">Комуникации</string>
+    <string name="str_Share">Поделиться</string>
+    <string name="str_Send">Передать</string>
+    <string name="str_Slide">Презентация</string>
+    <string name="str_Tools">Настройки</string>
+    <string name="str_EZ">Электронный журнал успеваемости</string>
+    <string name="str_Import">Об Университете</string>
+    <string name="str_EZBall">Текущая успеваемость</string>
+    <string name="str_EZPropusk">Пропуски занятий</string>
+    <string name="str_BarRepl">Что-то вставим здесь...</string>
+</resources>

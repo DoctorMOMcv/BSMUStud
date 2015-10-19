@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">All BSMU</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="strHWord">Hello from the education department BSMU</string>
+    <string name="NameSoft">All Info BSMU</string>
+    <string name="str_Import">About</string>
+    <string name="str_Galer">Gallery</string>
+    <string name="str_Comm">Communicate</string>
+    <string name="str_Share">Share</string>
+    <string name="str_Send">Send</string>
+    <string name="str_Slide">Slideshow</string>
+    <string name="str_Tools">Tools</string>
+    <string name="str_EZ">Electronic gradebook</string>
+    <string name="str_EZBall">Current performance</string>
+    <string name="str_EZPropusk">Absenteeism</string>
+    <string name="str_BarRepl">Replace with your own action</string>
+</resources>

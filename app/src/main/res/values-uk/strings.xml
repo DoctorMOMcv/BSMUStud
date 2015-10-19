@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">БДМУ Інформ</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="navigation_drawer_close">Закрити навігацію</string>
+    <string name="navigation_drawer_open">Відкрити навігацію</string>
+    <string name="strHWord">Усім привіт з навчального відділу БДМУ </string>
+    <string name="NameSoft">Все про БДМУ</string>
+    <string name="str_Import">Про Університет</string>
+    <string name="str_Galer">Фотогалерея</string>
+    <string name="str_Comm">Комунікації</string>
+    <string name="str_Share">Поділитись</string>
+    <string name="str_Send">Передати</string>
+    <string name="str_Slide">Презентація</string>
+    <string name="str_Tools">Налаштування</string>
+    <string name="str_EZ">Електронний журнал успішності</string>
+    <string name="str_EZBall">Поточна успішність</string>
+    <string name="str_EZPropusk">Пропуски занять</string>
+    <string name="str_BarRepl">Додамо пізніше текст...</string>
+</resources>
